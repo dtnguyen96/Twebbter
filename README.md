@@ -1,6 +1,6 @@
 # Project 3 - *Twebbter*
 
-*Twebbter** is a basic twitter app to read your tweets.
+**Twebbter** is a basic twitter app to read your tweets.
 
 Time spent: **10** hours spent in total
 
