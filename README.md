@@ -23,5 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Twebbter Walkthrough](./Simulator Screen Recording - iPhone 8 Plus - 2022-03-11 at 22.00.01.gif)
+![Twebbter Walkthrough](./twebbterp1.gif)
 
