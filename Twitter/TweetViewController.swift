@@ -34,7 +34,6 @@ class TweetViewController: UIViewController {
             self.dismiss(animated: true, completion: nil)
         }
     }
-    
     /*
     // MARK: - Navigation
 
